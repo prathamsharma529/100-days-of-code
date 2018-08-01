@@ -6,4 +6,4 @@
 
 **Thoughts:** Plan to build a Typing test application using Vue.js. I have good experience in React.js and wanted to try out Vue.js.
 
-**Link to work:** [Link to commit](https://github.com/pixarbasim/100-days-of-code/commit/05ad9a0487aa7dbbeefedaf3f0c55ceded684c37)
+**Link to work:** [Commit](https://github.com/pixarbasim/100-days-of-code/commit/05ad9a0487aa7dbbeefedaf3f0c55ceded684c37)
