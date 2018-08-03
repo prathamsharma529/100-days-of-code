@@ -1,8 +1,8 @@
 # 100 Days Of Code - Log
 
-### Day 1: Aug 1, 2018
+### Day 2: Aug 2, 2018
 
-**Today's Progress**: Started with an introduction to basic HTML and HTML5
+**Today's Progress**: introduction to basic HTML and HTML5
 
 **Thoughts:** To learn programming. 
 
