@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 8: Aug 8, 2018
+### Day 9: Aug 9, 2018
 
 **Today's Progress**:introduction to basic CSS
 
