@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 11: Aug 11, 2018
+### Day 12: Aug 12, 2018
 
 **Today's Progress**:introduction to basic CSS
 
